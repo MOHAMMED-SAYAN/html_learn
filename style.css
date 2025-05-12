@@ -22,3 +22,10 @@ span{
 h1{
     text-align: center;
 }
+
+
+footer a:hover {
+  color: #dc3545;
+  text-decoration: none;
+}
+
